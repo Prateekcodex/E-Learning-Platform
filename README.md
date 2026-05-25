@@ -8,7 +8,7 @@ A modern and responsive E-Learning Platform built using HTML, CSS, JavaScript, a
 
 # 🌐 Live Demo
 
-🔗 https://e-learning-platform-psi-orcin.vercel.app?utm_source=chatgpt.com
+🔗 https://vercel.com/prateek-pros-projects?repo=https%3A%2F%2Fgithub.com%2FPrateekcodex%2FE-Learning-Platform
 
 ---
 
