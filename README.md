@@ -8,7 +8,7 @@ A modern and responsive E-Learning Platform built using HTML, CSS, JavaScript, a
 
 # 🌐 Live Demo
 
-🔗 E-Learning Platform Live Demo
+🔗 https://e-learning-platform-psi-orcin.vercel.app?utm_source=chatgpt.com
 
 ---
 
