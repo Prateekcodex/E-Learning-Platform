@@ -6,7 +6,7 @@ A modern and responsive E-Learning Platform built using HTML, CSS, JavaScript, a
 
 
 <p align="center">
-  <a href="https://vercel.com/prateek-pros-projects?repo=https%3A%2F%2Fgithub.com%2FPrateekcodex%2FE-Learning-Platform">
+  <a href="https://e-learning-platform-psi-orcin.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=vercel">
   </a>
 </p>
